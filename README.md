@@ -1,2 +1,2 @@
-# colabore
-Repositório apenas para fins de estudos
+# example
+My first repository example for testing purposes.
